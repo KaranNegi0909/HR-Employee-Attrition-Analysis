@@ -4,7 +4,7 @@ An end-to-end HR Analytics project using Power Query, Python, SQL and Power BI t
 
 ## 📊 Dashboard Preview
 
-![HR Employee Attrition Dashboard](screenshots/HR_Employee_dashboard_screenshot.png)
+![HR Employee Attrition Dashboard](HR_Employee_dashboard_screenshot.png)
 
 ---
 
